@@ -1,6 +1,6 @@
 # Simple-Java-Quiz
 
-> [!tips]
+> [!tip]
 > Enjoy the code
 
 ## About
